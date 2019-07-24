@@ -1,6 +1,1 @@
-# gitskills
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature-1
+Creating a new branch is quick and simple aaa.
